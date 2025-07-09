@@ -212,13 +212,12 @@ We welcome contributions from security professionals:
 - Improve documentation and translations
 - Add support for additional compliance frameworks
 
-Please review our [Contribution Guidelines](CONTRIBUTING.md) before submitting changes.
 
 ---
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT License. 
 
 ---
 
@@ -230,7 +229,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 - NIST Cybersecurity Framework
 
 ---
-
-**AD Security Auditor – Enterprise Active Directory Protection**  
-Copyright © 2023 Mohamed Alzhrani (0xMaz).  
-All Rights Reserved.
