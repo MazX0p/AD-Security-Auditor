@@ -214,7 +214,6 @@ graph LR
 
 We welcome contributions from security professionals:
 
-- Report vulnerabilities via responsible disclosure
 - Submit pull requests for new security checks
 - Improve documentation and translations
 - Add support for additional compliance frameworks
