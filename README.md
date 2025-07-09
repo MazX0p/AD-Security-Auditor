@@ -36,23 +36,6 @@ The **AD Security Auditor** is a comprehensive security assessment platform desi
 - Active Directory PowerShell Module
 - Read access to Active Directory (minimum: domain user)
 
-### Download Options
-
-#### Precompiled Binaries:
-
-```bash
-git clone https://github.com/0xMaz/AD-Security-Auditor.git
-cd AD-Security-Auditor/bin/Release
-```
-
-#### Compile from Source:
-
-```bash
-git clone https://github.com/0xMaz/AD-Security-Auditor.git
-cd AD-Security-Auditor
-dotnet publish -c Release -r win-x64 --self-contained true
-```
-
 ---
 
 ## Getting Started
