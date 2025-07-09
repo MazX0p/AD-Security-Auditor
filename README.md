@@ -59,25 +59,25 @@ graph TD
 ### Basic Domain Audit
 
 ```bash
-ADAuditor --domain=corp.example.com --user=audituser --pass=SecurePass123!
+ADSecurityAuditor.exe --domain=corp.example.com --user=audituser --pass=SecurePass123!
 ```
 
 ### Compliance-Focused Audit (GRC Mode)
 
 ```bash
-ADAuditor --mode=grc --config=configs/compliance_config.json
+ADSecurityAuditor.exe --mode=grc --config=configs/compliance_config.json
 ```
 
 ### Attack Surface Analysis (Red Team Mode)
 
 ```bash
-ADAuditor --mode=redteam --output=redteam_report.html
+ADSecurityAuditor.exe --mode=redteam --output=redteam_report.html
 ```
 
 ### Continuous Monitoring
 
 ```bash
-ADAuditor --continuous --interval=12 --maxruns=48
+ADSecurityAuditor.exe --continuous --interval=12 --maxruns=48
 ```
 
 ---
