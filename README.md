@@ -6,7 +6,7 @@ Here's your content formatted neatly in Markdown:
 
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Security%20Audit-blue)
 ![Language C#](https://img.shields.io/badge/Language-C%23-green)
-![Framework .NET 7.0](https://img.shields.io/badge/Framework-.NET%207.0-purple)
+![Framework .NET 8.0](https://img.shields.io/badge/Framework-.NET%208.0-purple)
 ![License MIT](https://img.shields.io/badge/License-MIT-orange)
 
 ## Enterprise-Grade Active Directory Security Assessment Platform
@@ -48,7 +48,7 @@ graph TD
 
 ### Prerequisites
 
-- [.NET 7.0 Runtime](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 - Active Directory PowerShell Module
 - Read access to Active Directory (minimum: domain user)
 
