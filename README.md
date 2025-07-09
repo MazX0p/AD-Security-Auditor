@@ -96,6 +96,18 @@ The AD Security Auditor performs comprehensive checks across critical security d
 | **AD Infrastructure**| AdminSDHolder, Protected Users, Recycle Bin                  | Microsoft Security Baselines       |
 | **Red Team Focus**  | ACL backdoors, GPP credentials, DCSync rights                 | MITRE ATT&CK T1003, T1484          |
 
+
+```mermaid
+pie
+    title Security Checks Distribution
+    "Authentication" : 25
+    "Account Security" : 20
+    "Delegation Risks" : 15
+    "Service Security" : 15
+    "Protocol Security" : 15
+    "AD Infrastructure" : 10
+```
+
 ---
 
 ## Sample Report Outputs
