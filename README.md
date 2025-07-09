@@ -167,6 +167,18 @@ Customize audits using JSON configuration files:
 - Signed report outputs
 - Audit trail preservation
 
+```mermaid
+sequenceDiagram
+    participant Auditor
+    participant DomainController
+    participant SIEM
+    Auditor->>DomainController: LDAPS Authentication
+    Auditor->>DomainController: Secure Query
+    DomainController-->>Auditor: AD Data
+    Auditor->>Auditor: Security Analysis
+    Auditor->>SIEM: Encrypted Findings
+    Auditor->>FileSystem: Secured Reports
+```
 ---
 
 ## Compliance Mapping
@@ -178,6 +190,17 @@ Full compliance coverage includes:
 - MITRE ATT&CK Framework
 - Microsoft Security Compliance Toolkit
 
+```mermaid
+graph LR
+    A[AD Security Auditor] --> B[NIST 800-53]
+    A --> C[CIS Benchmarks]
+    A --> D[MITRE ATT&CK]
+    A --> E[Microsoft Baselines]
+    B --> F[IA-5 Authentication]
+    C --> G[Controls 1.1-18.9]
+    D --> H[T1484/T1558]
+```
+    
 ---
 
 ## Contributing
