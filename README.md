@@ -1,7 +1,3 @@
-Here's your content formatted neatly in Markdown:  
-
----
-
 # AD Security Auditor
 
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Security%20Audit-blue)
