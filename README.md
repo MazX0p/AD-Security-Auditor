@@ -85,13 +85,14 @@ The AD Security Auditor performs comprehensive checks across critical security d
 ## Sample Report Outputs
 
 - **HTML Executive Summary**  
-  ![Executive Summary](https://via.placeholder.com/800x400?text=Executive+Summary+Dashboard)
+  
+![Screenshot_10](https://github.com/user-attachments/assets/b46714cb-4b1d-4820-9bc9-c4f5ad677c4a)
+
+![Screenshot_9](https://github.com/user-attachments/assets/1d3dc960-5c6b-4aaa-a227-229cc3818dfb)
 
 - **Finding Details**  
-  ![Detailed Finding](https://via.placeholder.com/800x400?text=Detailed+Finding+Analysis)
+  ![Screenshot_11](https://github.com/user-attachments/assets/af9ed37c-42b6-45e7-bd78-9d2aa28a8830)
 
-- **Compliance Overview**  
-  ![Compliance Mapping](https://via.placeholder.com/800x400?text=Compliance+Mapping+Overview)
 
 ---
 
