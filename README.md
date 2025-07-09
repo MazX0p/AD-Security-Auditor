@@ -13,6 +13,7 @@ Here's your content formatted neatly in Markdown:
 
 The **AD Security Auditor** is a comprehensive security assessment platform designed for enterprise environments to identify vulnerabilities, misconfigurations, and security weaknesses in Active Directory infrastructures. With dual-mode operation for both compliance audits and penetration testing, this solution provides organizations with actionable intelligence to fortify their AD security posture.
 
+```
 graph TD
     A[AD Security Auditor] --> B[GRC Mode]
     A --> C[Red Team Mode]
@@ -25,7 +26,7 @@ graph TD
     H --> J[CSV Exports]
     H --> K[SIEM Integration]
     A --> L[Remediation Tools]
-    
+    ```
 ---
 
 ## Key Features
