@@ -36,7 +36,6 @@ graph TD
 - **Dual Audit Modes:** GRC (Governance, Risk, Compliance) and Red Team (Attack Surface Analysis)
 - **Comprehensive Security Checks:** 25+ critical AD security checks across multiple domains
 - **Compliance Mapping:** Alignment with NIST, CIS, MITRE ATT&CK frameworks
-- **Automated Remediation:** PowerShell scripts for immediate issue resolution
 - **Flexible Reporting:** HTML, CSV, and JSON reports
 - **SIEM Integration:** Splunk, Elasticsearch, QRadar support
 - **Continuous Monitoring:** Scheduled audits with baseline comparisons
